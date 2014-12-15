@@ -3,7 +3,7 @@ Contributors: teammife,
 Tags: backup, wordpress backup, database backup, complete backup, wp backup, website backup,backuprocks,backup rocks,real-time backup, dropbox backup, files backup, site backup, backup plugin
 Donate link: https://backup.rocks/
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.0.1
 Stable tag: trunk
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
